@@ -1,0 +1,24 @@
+Initialize engine version: 2017.1.0b5 (e2f219641e2c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x134d)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+    Driver:   25.21.14.1694
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Work\Game Development\My Projects\Unity\Laser Defender-20170408T181854Z-001\Laser Defender\Laser Defender_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Work\Game Development\My Projects\Unity\Laser Defender-20170408T181854Z-001\Laser Defender\Laser Defender_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Work\Game Development\My Projects\Unity\Laser Defender-20170408T181854Z-001\Laser Defender\Laser Defender_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Work\Game Development\My Projects\Unity\Laser Defender-20170408T181854Z-001\Laser Defender\Laser Defender_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Work\Game Development\My Projects\Unity\Laser Defender-20170408T181854Z-001\Laser Defender\Laser Defender_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Work\Game Development\My Projects\Unity\Laser Defender-20170408T181854Z-001\Laser Defender\Laser Defender_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Work\Game Development\My Projects\Unity\Laser Defender-20170408T181854Z-001\Laser Defender\Laser Defender_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Work\Game Development\My Projects\Unity\Laser Defender-20170408T181854Z-001\Laser Defender\Laser Defender_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Work\Game Development\My Projects\Unity\Laser Defender-20170408T181854Z-001\Laser Defender\Laser Defender_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Work\Game Development\My Projects\Unity\Laser Defender-20170408T181854Z-001\Laser Defender\Laser Defender_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Work\Game Development\My Projects\Unity\Laser Defender-20170408T181854Z-001\Laser Defender\Laser Defender_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Work\Game Development\My Projects\Unity\Laser Defender-20170408T181854Z-001\Laser Defender\Laser Defender_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.021 seconds
+<RI> Initializing input.
+<RI> Input initialized.
